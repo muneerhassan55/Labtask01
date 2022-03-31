@@ -17,7 +17,7 @@ Secondary actor of our project is
 ###### Delete Service provider
 ###### Contact 
 ###### Feedback
-##### Show home page
-##### Manage Data
-##### Log out
+###### Show home page
+###### Manage Data
+###### Log out
 
