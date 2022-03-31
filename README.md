@@ -11,13 +11,13 @@ Secondary actor of our project is
 •	Administrator
 #### Use case:
                   Some are the use cases of our project which are given below:
-# Login
-# Signup
-•	Add Service Provider
-•	Delete Service provider
-•	Contact 
-•	Feedback
-•	Show home page
-•	Manage Data
-•	Log out
+###### Login
+###### Signup
+###### Add Service Provider
+###### Delete Service provider
+###### Contact 
+###### Feedback
+##### Show home page
+##### Manage Data
+##### Log out
 
